@@ -23,7 +23,7 @@ block_list = [
     r'إعلان', r'إعلان تجاري', r'عروض', r'هكر', r'قرصنة'
 ]
 
-max_words = 40
+max_words = 20
 
 
 class Detector:
